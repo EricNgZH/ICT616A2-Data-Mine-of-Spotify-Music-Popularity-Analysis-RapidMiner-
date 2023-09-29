@@ -1,4 +1,4 @@
-# ICT616A2-Data-Mine-of-Spotify-Music-Popularity-Analysis-RapidMiner-
+# ICT616A2 Data Mine of Spotify Music Popularity Analysis RapidMiner
 
 Spotify, a prominent digital music streaming service, serves millions of users globally with an extensive library of music and audio content. Founded in 2006, it has risen to become one of the premier platforms for music streaming.
 
